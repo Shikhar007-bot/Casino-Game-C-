@@ -91,9 +91,9 @@ using namespace std;
 				else
 				{
 					totalMoney = totalMoney + betMoney*2;
+					cout<<endl;
 					cout<<"CHEERS!!! YOU WON..... "<<endl;
-					cout<<"Now the your current balance is $ "<<betMoney*20<<endl;
-					
+					cout<<"Now the your current bet money is $ "<<betMoney*2<<endl;
 				}	
 		
 				cout<<"\nThe Winning Number was : "<<dice<<endl;
